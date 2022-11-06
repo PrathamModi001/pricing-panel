@@ -16,4 +16,4 @@ A professional looking pricing panel which has 3 different columns representing 
 ![Screenshot from 2022-11-06 22-55-41](https://user-images.githubusercontent.com/72181828/200185435-2fb59ba0-4ecf-4e2e-ab59-4bcccea5a7ca.png)
 
 ### Panel on Mobile
-https://user-images.githubusercontent.com/72181828/200189775-f11eb221-ff56-4de5-b7e9-119fdd95cfed.mp4
+https://user-images.githubusercontent.com/72181828/200190241-f0ee5277-08dc-4ea1-a336-85c0c0bf1e54.mp4
